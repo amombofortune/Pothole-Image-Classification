@@ -7,6 +7,6 @@ To run the code,
 
 1. Download the required Python libraries
 
-TensorFlow, Keras, Flask, Pandas, Numpy in a virtual environment.
+TensorFlow, Keras, Flask, Pandas, Numpy, Webbrowser, PIL in a virtual environment.
 
 2. Run the code
